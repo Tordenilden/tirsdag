@@ -11,5 +11,9 @@ namespace tirsdag
             Console.WriteLine("første ændring");
             Console.WriteLine("min anden ændring");
         }
+        public static void minMetode()
+        {
+            Console.WriteLine("hej med dig");
+        }
     }
 }
